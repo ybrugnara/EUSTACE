@@ -4,9 +4,9 @@ Homogenization software developed in the framework of the EUSTACE project (https
 
 ## Contributors
 
-Yuri Brugnara, University of Bern
+Yuri Brugnara, University of Bern (yuri.brugnara@giub.unibe.ch)
 
-Antonello Squintu, KNMI
+Antonello Squintu, KNMI (squintu@knmi.nl)
 
 Yang Feng, Environment Canada
 
