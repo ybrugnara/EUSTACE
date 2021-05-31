@@ -1,0 +1,11 @@
+1e5e98e127d46ab2aa393df066379ad6 *ChangeLog
+db6f2006312b566e4c42c300a34ca65e *DESCRIPTION
+920db865fae3584e2f5d23653d2d4722 *NAMESPACE
+44bbc0516da950e7290ed683540d08bc *R/plot.rbga.R
+5a78b4195d1edcc9f628111b705bf36a *R/rbga.R
+8e76b4a0b8b320be18942b564c90ea0c *R/rbga.bin.R
+0e17c2a9af89147e897893e3e005dc82 *R/summary.rbga.R
+73f6e024541ba9087d434e77c766ee14 *man/plot.rbga.Rd
+dec2e79b631d35efa21af9dee2583b8f *man/rbga.Rd
+8db2b0f7827141f597e156546b19d318 *man/rbga.bin.Rd
+dcd78addb33ecab7055bdaf3f6024310 *man/summary.rbga.Rd

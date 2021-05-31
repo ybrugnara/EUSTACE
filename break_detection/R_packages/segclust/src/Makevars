@@ -1,0 +1,3 @@
+PKG_CXXGLAGS= `gsl-config--cflags`
+PKG_LIBS= `gsl-config --libs` 
+

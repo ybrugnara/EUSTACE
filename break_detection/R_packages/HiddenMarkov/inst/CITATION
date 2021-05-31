@@ -1,0 +1,25 @@
+year <- sub(".*(2[[:digit:]]{3})-.*", "\\1", meta$Date)
+vers <- paste("R package version", meta$Version)
+url <- meta$URL
+package <- meta$Package
+title <- paste(package, ": ", meta$Title, sep="")
+
+citHeader(paste("To cite package '", package,
+                "' in publications use:", sep=""))
+
+citEntry(entry="Manual",
+         title = title,
+         author = personList(as.person("David Harte")),
+         year = year,
+         note = vers,
+         organization = "Statistics Research Associates",
+         address = "Wellington",
+         url = url,
+
+         textVersion =
+         paste("Harte, David. (",
+               year, "). ", title, ". ", vers, ". ", 
+               "Statistics Research Associates, Wellington. URL: ",
+               url, sep="")
+)
+
